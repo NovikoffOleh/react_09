@@ -16,7 +16,7 @@ const styles = {
 const Home = () => {
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Welcome to Phonebook page</h1>
+      <h1 style={styles.title}>Вітаю у твоєму ТелефонВook</h1>
     </div>
   );
 };

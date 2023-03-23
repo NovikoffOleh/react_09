@@ -5,7 +5,10 @@
   font-weight: 700;
   color: #2a363b;
 }
+.link:hover{
+  color: white;
+}
 
 .link.active {
-  color: #d61a33;
+  color: #7b7979;
 }
